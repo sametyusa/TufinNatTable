@@ -6,7 +6,6 @@ import json, re, pprint, time, pdb
 
 """
 Tufin'den F5 Big-IP pool IP'lerini alir. 
-DEVELOPMENT EDITITON
 (c) Samet Atalar
 """
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
